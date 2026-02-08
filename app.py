@@ -23,10 +23,3 @@ if st.button("Predict"):
         st.success("✅ Real News")
     else:
         st.error("❌ Fake News")
-st.set_page_config(
-    page_title="Fake News Detector",
-    page_icon="📰",
-    layout="centered"
-)
-
-st.title("Fake News Detection System")
