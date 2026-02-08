@@ -4,7 +4,7 @@ import pickle
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 
 # Load artifacts
-model = tf.keras.models.load_model("artifacts/model.keras")
+model = tf.keras.models.load_model("artifacts/model.h5")
 tokenizer = pickle.load(open("artifacts/tokenizer.pkl", "rb"))
 
 st.set_page_config(page_title="Fake News Detector", layout="centered")
