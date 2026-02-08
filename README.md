@@ -6,7 +6,8 @@ The project covers the complete data science lifecycle — from data preprocessi
 ---
 
 ## 🚀 Live Demo
-🔗 https://<your-app-name>.streamlit.app
+🔗 ### Live Demo
+https://fake-news-detector-nvx9wcbxrmza7ng7dnpnox.streamlit.app
 
 ---
 
